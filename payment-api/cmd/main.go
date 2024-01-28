@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	manage "github.com/fiap-postech-soat1-group21-stage4/order-api/order-api/adapter/handler"
+	manage "github.com/fiap-postech-soat1-group21-stage4/payment-api/payment-api/adapter/handler"
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/joho/godotenv/autoload"

@@ -3,7 +3,7 @@ package manage
 import (
 	"testing"
 
-	"github.com/fiap-postech-soat1-group21-stage4/order-api/order-api/adapter/handler/mocks"
+	"github.com/fiap-postech-soat1-group21-stage4/payment-api/payment-api/adapter/handler/mocks"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

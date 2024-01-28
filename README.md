@@ -15,7 +15,7 @@
 
 ## O que esse projeto faz e possui
 ### O que esse projeto faz
-Através da API é possívelsimular o pagamento de um pedido.
+Através da API é possível simular o pagamento de um pedido.
 
 #### O que esse projeto possui
  - [x] Dockerfile e DockerCompose
